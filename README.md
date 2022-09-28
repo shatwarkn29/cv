@@ -1,1 +1,1 @@
-#My CV which i created by learning basics of HTMl 
+#My CV which i created by learning basics of HTML
